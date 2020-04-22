@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="348abe77-5256-4de1-b3d9-22709e7d6ac6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1arwvA3yZA36hqPDVfkZQeriRJp" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SummerHoliday_Java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Dfs_Total">
+    <configuration name="Bfs_Total" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bfs_Total" />
+      <module name="binaryTree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dfs_Total" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dfs_Total" />
+      <module name="binaryTree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Dfs_Total" />
+        <item itemvalue="Application.Bfs_Total" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="348abe77-5256-4de1-b3d9-22709e7d6ac6" name="Default Changelist" comment="" />
+      <created>1587507248471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587507248471</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="596" y="308" key="#Project_Structure" timestamp="1587523970549">
+      <screen x="0" y="0" width="2000" height="1293" />
+    </state>
+    <state x="596" y="308" key="#Project_Structure/469.-1080.1920.1020/0.0.2000.1293@0.0.2000.1293" timestamp="1587523970549" />
+    <state width="1956" height="449" key="GridCell.Tab.0.bottom" timestamp="1587530411056">
+      <screen x="0" y="0" width="2000" height="1293" />
+    </state>
+    <state width="1956" height="449" key="GridCell.Tab.0.bottom/469.-1080.1920.1020/0.0.2000.1293@0.0.2000.1293" timestamp="1587530411056" />
+    <state width="1956" height="449" key="GridCell.Tab.0.center" timestamp="1587530411056">
+      <screen x="0" y="0" width="2000" height="1293" />
+    </state>
+    <state width="1956" height="449" key="GridCell.Tab.0.center/469.-1080.1920.1020/0.0.2000.1293@0.0.2000.1293" timestamp="1587530411056" />
+    <state width="1956" height="449" key="GridCell.Tab.0.left" timestamp="1587530411056">
+      <screen x="0" y="0" width="2000" height="1293" />
+    </state>
+    <state width="1956" height="449" key="GridCell.Tab.0.left/469.-1080.1920.1020/0.0.2000.1293@0.0.2000.1293" timestamp="1587530411056" />
+    <state width="1956" height="449" key="GridCell.Tab.0.right" timestamp="1587530411056">
+      <screen x="0" y="0" width="2000" height="1293" />
+    </state>
+    <state width="1956" height="449" key="GridCell.Tab.0.right/469.-1080.1920.1020/0.0.2000.1293@0.0.2000.1293" timestamp="1587530411056" />
+    <state width="1956" height="449" key="GridCell.Tab.1.bottom" timestamp="1587530411461">
+      <screen x="0" y="0" width="2000" height="1293" />
+    </state>
+    <state width="1956" height="449" key="GridCell.Tab.1.bottom/469.-1080.1920.1020/0.0.2000.1293@0.0.2000.1293" timestamp="1587530411461" />
+    <state width="1956" height="449" key="GridCell.Tab.1.center" timestamp="1587530411461">
+      <screen x="0" y="0" width="2000" height="1293" />
+    </state>
+    <state width="1956" height="449" key="GridCell.Tab.1.center/469.-1080.1920.1020/0.0.2000.1293@0.0.2000.1293" timestamp="1587530411461" />
+    <state width="1956" height="449" key="GridCell.Tab.1.left" timestamp="1587530411461">
+      <screen x="0" y="0" width="2000" height="1293" />
+    </state>
+    <state width="1956" height="449" key="GridCell.Tab.1.left/469.-1080.1920.1020/0.0.2000.1293@0.0.2000.1293" timestamp="1587530411461" />
+    <state width="1956" height="449" key="GridCell.Tab.1.right" timestamp="1587530411461">
+      <screen x="0" y="0" width="2000" height="1293" />
+    </state>
+    <state width="1956" height="449" key="GridCell.Tab.1.right/469.-1080.1920.1020/0.0.2000.1293@0.0.2000.1293" timestamp="1587530411461" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="deq != null" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
